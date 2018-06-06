@@ -1,6 +1,7 @@
 ---
-title: Test
-description: Test
+  title: "Test"
+  description: "Test"
+  v2: true
 
 ---
 ## Sample exercise
@@ -11,29 +12,23 @@ lang: python
 xp: 100
 skills: 2
 key: 148efc63c1
+
+
+
 ```
 
+a
 
 `@instructions`
 
+
 `@hint`
 
-`@pre_exercise_code`
-```{python}
 
-```
 
-`@sample_code`
-```{python}
 
-```
 
-`@solution`
-```{python}
 
-```
 
-`@sct`
-```{python}
 
-```
+
