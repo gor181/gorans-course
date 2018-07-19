@@ -1,23 +1,21 @@
 ---
   title: "Test"
   description: "Test"
-  v2: true
-
 ---
+
 ## Sample exercise
 
 ```yaml
-type: NormalExercise
+type: NormalExercise 
 lang: python
-xp: 100
+xp: 100 
 skills: 2
-key: 148efc63c1
-
-
-
+key: 148efc63c1   
 ```
 
-a
+
+changed
+
 
 `@instructions`
 
@@ -25,10 +23,30 @@ a
 `@hint`
 
 
+`@pre_exercise_code`
+
+```{python}
+
+```
 
 
+`@sample_code`
+
+```{python}
+
+```
 
 
+`@solution`
+
+```{python}
+
+```
 
 
+`@sct`
+
+```{python}
+
+```
 
