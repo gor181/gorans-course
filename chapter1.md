@@ -17,36 +17,15 @@ key: 148efc63c1
 changed
 
 
-`@instructions`
+---
 
+## Insert exercise title here
 
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
+```yaml
+type: VideoExercise 
+xp: 50 
+key: b1309770c9   
 ```
 
-
-`@sample_code`
-
-```{python}
-
-```
-
-
-`@solution`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
-
+`@projector_key`
+9a99eb8266f5d43b33d4e469d06ce152
