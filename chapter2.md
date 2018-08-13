@@ -1,3 +1,3 @@
 ---
-  title: "2"
-  description: ""
+title: '2'
+description: ""

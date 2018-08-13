@@ -1,6 +1,6 @@
 ---
-  title: "2"
-  description: ""
+title: '2'
+description: ""
 ---
 
 ## Insert exercise title here
@@ -25,38 +25,4 @@ key: d9e9d79007
 
 
 
-
-
-`@instructions`
-
-
-`@hint`
-
-
-`@pre_exercise_code`
-
-```{python}
-
-```
-
-
-`@sample_code`
-
-```{python}
-
-```
-
-
-`@solution`
-
-```{python}
-
-```
-
-
-`@sct`
-
-```{python}
-
-```
 

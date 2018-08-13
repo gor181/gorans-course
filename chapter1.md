@@ -1,6 +1,6 @@
 ---
-  title: "Test"
-  description: "Test"
+title: Test
+description: Test
 ---
 
 ## Sample exercise
