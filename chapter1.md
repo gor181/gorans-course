@@ -14,7 +14,47 @@ key: 148efc63c1
 ```
 
 
-changed demo commit
+changed
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 
 
 ---
