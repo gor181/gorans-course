@@ -1,5 +1,5 @@
 ---
-title: '2'
+title: '5'
 description: ""
 ---
 
@@ -20,9 +20,103 @@ cab8b85dfeff54d3d40e045819bbe10a
 ```yaml
 type: NormalExercise 
 xp: 100 
+key: 4b2636edb7   
+```
+
+
+first in chapter 5
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
 key: d9e9d79007   
 ```
 
 
 
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+`@possible_answers`
+
+
+`@feedback`
 

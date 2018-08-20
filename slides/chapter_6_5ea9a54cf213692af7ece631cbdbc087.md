@@ -1,6 +1,6 @@
 ---
 title: Insert title here
-key: 9a99eb8266f5d43b33d4e469d06ce152
+key: 5ea9a54cf213692af7ece631cbdbc087
 video_link:
   mp3: test.mp3
 
@@ -9,11 +9,10 @@ video_link:
 
 ```yaml
 type: "TitleSlide"
-key: "47116d0950"
+key: "bcd472960c"
 ```
 
 `@lower_third`
-
 name: Name Surname
 title: Instructor
 
@@ -27,25 +26,7 @@ title: Instructor
 
 ```yaml
 type: "FullCodeSlide"
-key: "863e4815c1"
-disable_transition: false
-```
-
-`@part1`
-
-
-
-`@script`
-
-
-
----
-## Insert title here...
-
-```yaml
-type: "FullImageSlide"
-key: "9cce3c358d"
-disable_transition: true
+key: "5e1a12b923"
 ```
 
 `@part1`
@@ -61,7 +42,7 @@ disable_transition: true
 
 ```yaml
 type: "FinalSlide"
-key: "eb2914bae2"
+key: "79512b5eb7"
 ```
 
 `@script`
