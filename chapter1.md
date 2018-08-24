@@ -64,8 +64,8 @@ changed kjbkj
 ```yaml
 type: VideoExercise 
 xp: 50 
-key: b1309770c9   
+key: a3edb91bde   
 ```
 
 `@projector_key`
-9a99eb8266f5d43b33d4e469d06ce152
+2b26a811dbd8a609868733488a9814ee
