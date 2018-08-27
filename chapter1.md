@@ -69,3 +69,17 @@ key: a3edb91bde
 
 `@projector_key`
 2b26a811dbd8a609868733488a9814ee
+---
+
+## Title
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: a3edb91bdf   
+```
+
+
+This is the new exercise in this chapter
+
+
