@@ -32,6 +32,88 @@ cb792e452c222adc1f18767cc16e69bd
 ```yaml
 type: MultipleChoiceExercise 
 xp: 50 
+key: 6e9eec2a71   
+```
+
+
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: NormalExercise 
+xp: 100 
+key: 9c67129e7f   
+```
+
+
+
+
+
+`@instructions`
+
+
+`@hint`
+
+
+`@pre_exercise_code`
+
+```{python}
+
+```
+
+
+`@sample_code`
+
+```{python}
+
+```
+
+
+`@solution`
+
+```{python}
+
+```
+
+
+`@sct`
+
+```{python}
+
+```
+
+
+---
+
+## Insert exercise title here
+
+```yaml
+type: MultipleChoiceExercise 
+xp: 50 
 key: 6f762ba673   
 ```
 
