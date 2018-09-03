@@ -59,7 +59,7 @@ sdsadadasdasdsadasdasdas
 
 ---
 
-## Insert exercise title here
+## mp3
 
 ```yaml
 type: VideoExercise 
@@ -117,3 +117,15 @@ This is the new exercise in this chapter
 ```
 
 
+---
+
+## Insert exercise title here
+
+```yaml
+type: VideoExercise 
+xp: 50 
+key: 05f48a0294   
+```
+
+`@projector_key`
+c57a30f043f834531721cdbb0add4d6f
