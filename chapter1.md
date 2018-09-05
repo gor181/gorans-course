@@ -3,7 +3,7 @@ title: Test
 description: Test
 ---
 
-## Sample exercise
+## changed
 
 ```yaml
 type: NormalExercise
