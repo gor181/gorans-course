@@ -6,16 +6,14 @@ description: Test
 ## Sample exercise
 
 ```yaml
-type: NormalExercise 
+type: NormalExercise
+key: 148efc63c1
 lang: python
-xp: 100 
+xp: 100
 skills: 2
-key: 148efc63c1   
 ```
 
-
 changed kjbkj
-
 
 `@instructions`
 sdsadadasdasdsadasdasdas
@@ -24,32 +22,24 @@ sdsadadasdasdsadasdasdas
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -62,26 +52,25 @@ sdsadadasdasdsadasdasdas
 ## mp3
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: a3edb91bde   
+type: VideoExercise
+key: a3edb91bde
+xp: 50
 ```
 
 `@projector_key`
 2b26a811dbd8a609868733488a9814ee
+
 ---
 
 ## Title
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: a3edb91bdf   
+type: NormalExercise
+key: a3edb91bdf
+xp: 100
 ```
 
-
 This is the new exercise in this chapter
-
 
 `@instructions`
 
@@ -90,41 +79,33 @@ This is the new exercise in this chapter
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 05f48a0294   
+type: VideoExercise
+key: 05f48a0294
+xp: 50
 ```
 
 `@projector_key`

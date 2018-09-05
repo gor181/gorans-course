@@ -6,27 +6,26 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: VideoExercise 
-xp: 50 
-key: 0ea38fed66   
+type: VideoExercise
+key: 0ea38fed66
+xp: 50
 ```
 
 `@projector_key`
 cab8b85dfeff54d3d40e045819bbe10a
+
 ---
 
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 4b2636edb7   
+type: NormalExercise
+key: 4b2636edb7
+xp: 100
 ```
-
 
 first in chapter 5
 
-
 `@instructions`
 
 
@@ -34,32 +33,24 @@ first in chapter 5
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -72,12 +63,10 @@ first in chapter 5
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: d9e9d79007   
+type: NormalExercise
+key: d9e9d79007
+xp: 100
 ```
-
-
 
 
 
@@ -88,36 +77,26 @@ key: d9e9d79007
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-

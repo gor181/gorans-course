@@ -6,12 +6,10 @@ description: ""
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 7c5d3aad0b   
+type: NormalExercise
+key: 7c5d3aad0b
+xp: 100
 ```
-
-
 
 
 
@@ -22,32 +20,24 @@ key: 7c5d3aad0b
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -60,12 +50,10 @@ key: 7c5d3aad0b
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 863d630ab0   
+type: NormalExercise
+key: 863d630ab0
+xp: 100
 ```
-
-
 
 
 
@@ -76,32 +64,24 @@ key: 863d630ab0
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -114,12 +94,10 @@ key: 863d630ab0
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 979ed172c8   
+type: NormalExercise
+key: 979ed172c8
+xp: 100
 ```
-
-
 
 
 
@@ -130,32 +108,24 @@ key: 979ed172c8
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -168,12 +138,10 @@ key: 979ed172c8
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 51f80fb55a   
+type: NormalExercise
+key: 51f80fb55a
+xp: 100
 ```
-
-
 
 
 
@@ -184,32 +152,24 @@ key: 51f80fb55a
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -222,12 +182,10 @@ key: 51f80fb55a
 ## Insert exercise title here
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: ba3025752f   
+type: NormalExercise
+key: ba3025752f
+xp: 100
 ```
-
-
 
 
 
@@ -238,32 +196,24 @@ key: ba3025752f
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
@@ -276,12 +226,10 @@ key: ba3025752f
 ## dasda
 
 ```yaml
-type: NormalExercise 
-xp: 100 
-key: 55defdae77   
+type: NormalExercise
+key: 55defdae77
+xp: 100
 ```
-
-
 
 
 
@@ -292,36 +240,26 @@ key: 55defdae77
 
 
 `@pre_exercise_code`
-
 ```{python}
 
 ```
-
 
 `@sample_code`
-
 ```{python}
 
 ```
-
 
 `@solution`
-
 ```{python}
 
 ```
-
 
 `@sct`
-
 ```{python}
 
 ```
-
 
 `@possible_answers`
 
 
 `@feedback`
-
-
