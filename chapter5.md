@@ -52,12 +52,6 @@ first in chapter 5
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -95,8 +89,3 @@ xp: 100
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

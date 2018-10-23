@@ -39,7 +39,7 @@ xp: 50
 
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -105,7 +105,7 @@ xp: 50
 
 
 
-`@instructions`
+`@possible_answers`
 
 
 `@hint`
@@ -116,26 +116,10 @@ xp: 50
 
 ```
 
-`@sample_code`
-```{python}
-
-```
-
-`@solution`
-```{python}
-
-```
-
 `@sct`
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -187,8 +171,3 @@ last in chapter 6
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

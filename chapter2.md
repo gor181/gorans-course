@@ -39,12 +39,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -82,12 +76,6 @@ xp: 100
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -127,12 +115,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## Insert exercise title here
@@ -170,12 +152,6 @@ xp: 100
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
-
 
 ---
 
@@ -215,12 +191,6 @@ xp: 100
 
 ```
 
-`@possible_answers`
-
-
-`@feedback`
-
-
 ---
 
 ## dasda
@@ -258,8 +228,3 @@ xp: 100
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`

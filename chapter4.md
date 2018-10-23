@@ -38,8 +38,3 @@ first in chapter 4
 ```{python}
 
 ```
-
-`@possible_answers`
-
-
-`@feedback`
